@@ -1,5 +1,5 @@
-import React from "react";
 import { Box } from "@chakra-ui/layout";
+import React from "react";
 
 interface WrapperProps {
   variant?: "small" | "regular";
